@@ -32,4 +32,4 @@ pnpm-debug.log*
 .idea/
 
 # Misc
-*.swp
+*.swpbackend/target/
