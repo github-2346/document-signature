@@ -1,26 +1,26 @@
-# 📄 Document Signature 
+# Document Signature 
 
 A full-stack digital document signing platform that allows users to upload PDF documents, place signatures visually, embed them into the PDF, and download signed files.
 
 This project is built with a modern **React + Spring Boot + PostgreSQL** architecture and simulates a real-world digital signature workflow similar to professional e-signature platforms.
 
 
-## 🚀 Features
+## Features
 
-### 📂 Document Management
+### Document Management
 - Upload PDF documents
 - Secure backend file storage
 - Preview PDFs directly inside the browser
 - Multi-user document tracking
 
-### ✍️ Signature System
+### Signature System
 - Draw signature
 - Type signature
 - Upload image signature
 - Drag & position signatures visually
 - Resize and place signatures dynamically
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -40,7 +40,7 @@ This project is built with a modern **React + Spring Boot + PostgreSQL** archite
 ### Database
 - PostgreSQL
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Document_Signature/
@@ -66,7 +66,7 @@ Document_Signature/
 └── README.md
 ```
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1️⃣ Clone Repository
 
@@ -75,7 +75,7 @@ git clone https://github.com/github-2346/document-signature.git
 cd Document_Signature
 ```
 
-### 2️⃣  Install Dependencies
+### 2️⃣ Install Dependencies
 
 npm install
 
@@ -90,7 +90,7 @@ After starting, you will see something like:
 Local: http://localhost:5173
 
 
-## 🔄 Application Workflow
+## Application Workflow
 
 1. User uploads PDF document
 2. Backend stores document file
@@ -100,13 +100,6 @@ Local: http://localhost:5173
 6. Backend embeds signatures into PDF
 7. Signed PDF becomes downloadable
 
-
-## 📌 Current Status
-
-✔ Real backend PDF preview  
-✔ Signature embedding inside PDF  
-✔ Signed PDF download working  
-✔ Full-stack integration completed  
 
 
 ## 🛠 Future Improvements
